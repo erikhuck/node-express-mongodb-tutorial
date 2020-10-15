@@ -1,0 +1,5 @@
+.env
+.idea
+
+# If someone clones the repo, they can simply run `npm install` and it'll install all the modules in package.json
+node_modules
